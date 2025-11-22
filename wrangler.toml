@@ -1,2 +1,5 @@
-# wrangler.toml
-name = 'thetechguyforentrepreneurs'
+name = "the-tech-guy-for-entrepreneurs"
+compatibility_date = "2025-11-22"
+
+[assets]
+directory = "./dist"
